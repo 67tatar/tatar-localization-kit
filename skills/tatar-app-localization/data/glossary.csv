@@ -9,8 +9,8 @@ search,поиск,эзләү,tt-MediaWiki allmessages: search,https://tt.wikiped
 download,скачать,йөкләп алу,узус tt-Википедии,https://tt.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall,confirmed
 upload,загрузить,төяү,tt-MediaWiki allmessages: upload,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=upload,confirmed
 button,кнопка,төймә,узус tt-Википедии,https://tt.wikipedia.org/wiki/Ctrl,confirmed
-window,окно,тәрәзә,Татарско-русский большой словарь,http://tugan-tel.com/t.htm,confirmed
-computer,компьютер,санак,тж. «компьютер»; статья tt-Вики «Санак»,https://tt.wikipedia.org/wiki/Санак,confirmed
+window,окно,тәрәз,Татарско-русский большой словарь,http://tugan-tel.com/t.htm,confirmed
+computer,компьютер,компьютер,
 program,программа,программа,заимствование — норма,https://tt.wikipedia.org/wiki/Программа,borrowing
 user,пользователь,кулланучы,tt-MediaWiki allmessages: yourname,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=yourname,confirmed
 password,пароль,серсүз,статья tt-Вики «Серсүз»,https://tt.wikipedia.org/wiki/Серсүз,confirmed
@@ -25,7 +25,7 @@ install,установить,урнаштыру,Татарско-русский 
 delete,удалить,бетерү,tt-MediaWiki allmessages: delete,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=delete,confirmed
 edit,изменить; править,үзгәртү,тж. төзәтү — «исправлять»; allmessages: edit,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=edit,confirmed
 copy,копировать,күчерү,Татарско-русский большой словарь,http://tugan-tel.com/k.htm,confirmed
-paste,вставить,ябыштыру,словарь: «клеить; склеивать»; для UI-значения «вставить» подтверждения нет,http://tugan-tel.com/ya.htm,unconfirmed
+paste,вставить,кертү,
 print,печатать,бастыру,tt-MediaWiki allmessages: print,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=print,confirmed
 language,язык,тел,Татарско-русский большой словарь,http://tugan-tel.com/t.htm,confirmed
 keyboard,клавиатура,клавиатура,заимствование — норма,https://tt.wikipedia.org/wiki/Клавиатура,borrowing
