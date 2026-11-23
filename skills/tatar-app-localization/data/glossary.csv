@@ -1,0 +1,36 @@
+en,ru,tt,note,source,confidence
+file,файл,файл,заимствование — норма IT-узуса tt-Википедии,https://tt.wikipedia.org/wiki/Интернет,borrowing
+folder,папка,папка,заимств.; IT-узус не подтверждён,https://tt.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=insource%3A%22папка%22,unconfirmed
+save,сохранить,саклау,tt-MediaWiki allmessages: savearticle,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=savearticle,confirmed
+open,открыть,ачу,Татарско-русский большой словарь,http://tugan-tel.com/a.htm,confirmed
+close,закрыть,ябу,Татарско-русский большой словарь,http://tugan-tel.com/ya.htm,confirmed
+settings,настройки,көйләнмәләр,tt-MediaWiki allmessages: preferences,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=preferences,confirmed
+search,поиск,эзләү,tt-MediaWiki allmessages: search,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=search,confirmed
+download,скачать,йөкләп алу,узус tt-Википедии,https://tt.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall,confirmed
+upload,загрузить,төяү,tt-MediaWiki allmessages: upload,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=upload,confirmed
+button,кнопка,төймә,узус tt-Википедии,https://tt.wikipedia.org/wiki/Ctrl,confirmed
+window,окно,тәрәзә,Татарско-русский большой словарь,http://tugan-tel.com/t.htm,confirmed
+computer,компьютер,санак,тж. «компьютер»; статья tt-Вики «Санак»,https://tt.wikipedia.org/wiki/Санак,confirmed
+program,программа,программа,заимствование — норма,https://tt.wikipedia.org/wiki/Программа,borrowing
+user,пользователь,кулланучы,tt-MediaWiki allmessages: yourname,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=yourname,confirmed
+password,пароль,серсүз,статья tt-Вики «Серсүз»,https://tt.wikipedia.org/wiki/Серсүз,confirmed
+login,вход; логин,керү,в текстах тж. заимств. «логин»; allmessages: login,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=login,confirmed
+network,сеть,челтәр,узус tt-Википедии,https://tt.wikipedia.org/wiki/Интернет,confirmed
+server,сервер,сервер,заимствование — норма,https://tt.wikipedia.org/wiki/Интернет,borrowing
+data,данные,мәгълүмат,Татарско-русский большой словарь,http://tugan-tel.com/m.htm,confirmed
+error,ошибка,хата,tt-MediaWiki allmessages: error,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=error,confirmed
+warning,предупреждение,кисәтү,Татарско-русский большой словарь,http://tugan-tel.com/k.htm,confirmed
+update,обновить,яңарту,Татарско-русский большой словарь,http://tugan-tel.com/ya.htm,confirmed
+install,установить,урнаштыру,Татарско-русский большой словарь,http://tugan-tel.com/u.htm,confirmed
+delete,удалить,бетерү,tt-MediaWiki allmessages: delete,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=delete,confirmed
+edit,изменить; править,үзгәртү,тж. төзәтү — «исправлять»; allmessages: edit,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=edit,confirmed
+copy,копировать,күчерү,Татарско-русский большой словарь,http://tugan-tel.com/k.htm,confirmed
+paste,вставить,ябыштыру,словарь: «клеить; склеивать»; для UI-значения «вставить» подтверждения нет,http://tugan-tel.com/ya.htm,unconfirmed
+print,печатать,бастыру,tt-MediaWiki allmessages: print,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=print,confirmed
+language,язык,тел,Татарско-русский большой словарь,http://tugan-tel.com/t.htm,confirmed
+keyboard,клавиатура,клавиатура,заимствование — норма,https://tt.wikipedia.org/wiki/Клавиатура,borrowing
+mouse,мышь,тычкан,узус tt-Википедии,https://tt.wikipedia.org/wiki/Санак,confirmed
+page,страница,бит,Татарско-русский большой словарь,http://tugan-tel.com/b.htm,confirmed
+link,ссылка,сылтама,статья tt-Вики «Сылтама»,https://tt.wikipedia.org/wiki/Сылтама,confirmed
+image,изображение,рәсем,Татарско-русский большой словарь,http://tugan-tel.com/r.htm,confirmed
+help,помощь; справка,ярдәм,в интерфейсе tt-Вики — «белешмә»; allmessages: help,https://tt.wikipedia.org/w/api.php?action=query&meta=allmessages&amlang=tt&ammessages=help,confirmed
